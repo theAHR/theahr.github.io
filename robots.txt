@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://ramroudi.com
+Sitemap: https://ramroudi.com/sitemap.xml
